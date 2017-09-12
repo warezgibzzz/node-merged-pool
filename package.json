@@ -34,7 +34,7 @@
         "url": "https://github.com/nzsquirrell/node-merged-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git+https://github.com/nzsquirrell/node-multi-hashing.git",
+        "multi-hashing": "git+https://github.com/warezgibzzz/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
